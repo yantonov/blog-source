@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/yantonov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://yantonov.com
+  * I am yantonov (https://keybase.io/yantonov) on keybase.
+  * I have a public key with fingerprint 9118 4C52 211A B2A7 FAAF  DD75 1B30 B476 860A EF41
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011d6ecfbac06202e38a567f7d13ce3605c2b4dc285a7bac98abbdc908ed5c6e490a",
+            "fingerprint": "91184c52211ab2a7faafdd751b30b476860aef41",
+            "host": "keybase.io",
+            "key_id": "1b30b476860aef41",
+            "kid": "01011d6ecfbac06202e38a567f7d13ce3605c2b4dc285a7bac98abbdc908ed5c6e490a",
+            "uid": "5f1355821a2a9f7df13f56efbc7df119",
+            "username": "yantonov"
+        },
+        "service": {
+            "hostname": "yantonov.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458086642,
+    "expire_in": 157680000,
+    "prev": "13d2e76406ba2571962f4fec8fbccc5d0e105cea2087980e96a6379b6ace3ce0",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSBRRGF670tJSQYmEIE1FF7Y8Z3au20OaElFGgjFmt/XMmTPrtOvM
+uju7uon1UD0VGgRmRBd8qFztwRQCrSjZbhRhpSG9hJJYkIlFxhJmZ6ReosfOyzn/
+f77vO9//cdKeuS53VsVE4fWZZYWDWc8eNMddyofWL/WMamlJxl/PhMjsRsIaidmB
+kKExfgZAAKEmEKyrCAOBBSzxSYgXRF3UoA8TnwB4zKqchlmJRyIFyRJSVQ3LQCIa
+jwXCyQAxXkY3zCCJRqKGaVNZGUKJwzzLQohUFok6QrqmiTxUfUDlREESACI6Bymx
+yoo5DGpORTGy2bBojxaBWXv/wP9n3/FZOV6HPp6XWIhYJFMJWuq8QHQVO2coO8AY
+iZqomlB0Epm2ZVoJpsHL0G7CwMQJ1pnkL8RmbFVTbiRq2Ra2wvSmyrYjfodoJyMO
+spaogd8aAdUwNRojJSRINGZYJuOHFIltwxGFHC8BSRA41suQuogRJQHDQfA0HkCX
+8wxJOKH5NJaIAgcEFbG8CGWB1TmdYImOgzGvAQJpOASxQBJlCRBZQIJPlFUB0dww
+AYwzVY1pMX6R2kRBKhkzgiay41HCNPTdPzjPleV2LZg/x/leLveipX8+3YrqhTMH
+6o8Hk978gWWjuAgv2DoQa93W5qoMjbi7MuXaHrb20sqi7ezyro9aX3FTzr7K3LNH
+jI4x/2Te3l13n4an3598XTj+0tzy9dV48mFbR2N/Qf/kdGh/ad21c4uV3KnVStMO
+z3P3eOrHp7ljI3dOBM8crZzedKstc/NbesYzdOjRitzSmsfD/RWhhUBRGstaCjqn
+uod2N/7MeC4ow3nH8I1euSy/Z11zxWh2+5W89IHBjd9y8lFfVark5NXy5MFVXZl7
+8SeHW0tAeMPbNZ3dt3tPBMTT0YuX69JK6vzq7OKetROT7e8eJD2BU6/K3T1Fx5WG
+4Z0t5hKlZP2LVZ9T39+IvwBZ5kk8
+=GZHl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yantonov
+
+==================================================================
+
