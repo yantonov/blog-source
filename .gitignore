@@ -1,5 +1,6 @@
 # themes
-/themes/
+/themes/*
+!/themes/.empty
 
 # generated content
 /public/
