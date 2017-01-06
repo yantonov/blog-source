@@ -1,5 +1,5 @@
 ---
-title: "Ucondltra leiningen plugin"
+title: "Ultra leiningen plugin"
 date: 2015-02-03T23:25:06+05:00
 categories: [clojure, repl, plugin, leiningen, ide, workflow]
 ---
