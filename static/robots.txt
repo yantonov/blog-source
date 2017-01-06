@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://yantonov.github.io/sitemap.xml

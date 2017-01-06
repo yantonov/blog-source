@@ -1,0 +1,30 @@
+---
+languageCode: "en-us"
+title: "(map solve problems)"
+baseurl: "http://yantonov.com/"
+permalinks:
+    post: /blog/:year/:month/:day/:title/
+metadataformat: "yaml"
+disqusShortname: "yantonov"
+# theme specific settings
+author:
+    # If you want to display author information set these
+    # This is Optional values
+    name: "Yury Antonov"
+    # Please set account ids
+    # This is Optional values
+    twitter: "yantonov"
+    #linkedin = "your linkedin id"
+    github: "yantonov"
+params:
+    #sharebutton:
+        # If you want to display share buttons set these
+        # This is Optional values
+        #twitter: true
+        # facebook: true
+        # hatena   = true # hatena is Japanese social media
+        #google: true
+        #pocket: true
+        # Please set id when you want to display facebook
+        # facebookAppId = "your app id"
+---
