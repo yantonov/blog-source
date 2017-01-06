@@ -1,5 +1,5 @@
 ---
-title: "conditional get for rss hackers"
+title: "Conditional get for rss hackers"
 date: 2015-01-25 16:30:47 +0500
 categories: [http, headers, conditional, optimization, rfc, rss, feeds]
 ---

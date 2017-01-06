@@ -1,5 +1,5 @@
 ---
-title: "deep learning resouces"
+title: "Deep learning resouces"
 date: 2015-09-13T15:29:49+05:00
 categories: [deep learning, ai, ml]
 ---

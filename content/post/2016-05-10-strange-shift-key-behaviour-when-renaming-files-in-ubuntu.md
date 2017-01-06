@@ -1,5 +1,5 @@
 ---
-title: "strange shift key behaviour when renaming files in ubuntu"
+title: "Strange shift key behaviour when renaming files in ubuntu"
 date: 2016-05-10T08:45:32+05:00
 categories: [ubuntu, shortcut, keyboard, nautilus]
 ---

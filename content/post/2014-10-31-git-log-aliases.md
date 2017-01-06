@@ -1,5 +1,5 @@
 ---
-title: "git log aliases"
+title: "Git log aliases"
 date: 2014-10-31T00:10:22+05:00
 categories: [git, alias, config, vcs, scm]
 ---

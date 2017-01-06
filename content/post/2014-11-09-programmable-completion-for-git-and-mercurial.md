@@ -1,5 +1,5 @@
 ---
-title: "programmable completion for git and mercurial"
+title: "Programmable completion for git and mercurial"
 date: 2014-11-09T22:52:36+05:00
 categories: [emacs, emacs lisp, lisp, eshell, pcomplete, git, mercurial]
 ---

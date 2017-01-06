@@ -1,5 +1,5 @@
 ---
-title: "y combinator"
+title: "Y combinator"
 date: 2015-06-07T17:50:14+05:00
 categories: [lambda_calculus, fprog]
 ---

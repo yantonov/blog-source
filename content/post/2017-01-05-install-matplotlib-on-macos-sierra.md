@@ -1,6 +1,6 @@
 ---
 date: 2017-01-05T22:38:37+05:00
-title: install matplotlib on mac sierra
+title: Install matplotlib on mac sierra
 categories: [python, python3, matplotlib, mac]
 ---
 During matplotlib installation (for python3) some error may occured:  

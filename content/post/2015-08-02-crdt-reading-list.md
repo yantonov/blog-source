@@ -1,5 +1,5 @@
 ---
-title: "crdt reading list"
+title: "Crdt reading list"
 date: 2015-08-02T12:14:54+05:00
 categories: [crdt, conflict-free replicated data types]
 ---

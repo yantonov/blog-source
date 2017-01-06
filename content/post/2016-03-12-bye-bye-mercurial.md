@@ -1,5 +1,5 @@
 ---
-title: "bye bye mercurial"
+title: "Bye bye mercurial"
 date: 2016-03-12T19:54:21+05:00
 categories: [mercurial, git, vsc, scm, dvcs]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "stackoverflow reputation problem"
+title: "Stackoverflow reputation problem"
 date: 2014-10-28T21:08:23+05:00
 categories: [stackoverflow, usability, ux, user_experience]
 ---
