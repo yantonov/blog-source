@@ -1,6 +1,5 @@
 ---
 date: 2017-01-06T13:02:38+05:00
-draft: true
 title: "buy octopress hello hugo"
 categories: [blog, site generator, static site generator, static]
 ---
