@@ -1,7 +1,7 @@
 ---
 date: 2017-05-03T03:16:05+05:00
 title: Neural turing machines
-categories: [neural network, turing machine]
+categories: [neural network, turing machine, memory]
 ---
 [https://arxiv.org/abs/1410.5401](Neural Turing Machines)
 
