@@ -3,7 +3,7 @@
 SCRIPT_DIR=$(cd `dirname $0` && pwd)
 cd $SCRIPT_DIR
 
-cd content/post
+cd ../content/post
 
 LAST_POST=`ls -1 | sort -r | head -n 1`
 
