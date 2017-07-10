@@ -15,3 +15,5 @@ CURRENT_DATE=`date "+%Y-%m-%d"`
 POST_FILE_NAME="${CURRENT_DATE}-$1.md"
 
 hugo new post/$POST_FILE_NAME
+
+emacs content/post/$POST_FILE_NAME
