@@ -1,7 +1,6 @@
 #!/bin/sh
 
-SCRIPT_DIR=$(cd `dirname $0` && pwd)
-
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd $SCRIPT_DIR
 
 if [ $# -eq 0 ]; then
