@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "hugo-theme-geppaku"
+echo "pure"

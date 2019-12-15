@@ -5,4 +5,4 @@ cd $SCRIPT_DIR
 
 cd ..
 cd themes
-git clone "https://github.com/masa0221/hugo-theme-geppaku"
+git clone "https://github.com/xiaoheiAh/hugo-theme-pure.git" pure
