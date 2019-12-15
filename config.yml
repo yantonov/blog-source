@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://yantonov.com/
 theme: pure
 title: Pure theme for Hugo
 defaultContentLanguage: en  # en/zh/...
@@ -63,7 +63,7 @@ menu:
 
 
 params:
-  since: 2012
+  since: 2017
   dateFormatToUse: "2006-01-02"
   enablePostCopyright: true
   # the directory under content folder that you want to render
