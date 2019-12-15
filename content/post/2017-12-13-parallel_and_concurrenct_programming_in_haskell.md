@@ -1,4 +1,4 @@
-p---
+---
 title: "Parallel and concurrenct programming in haskell"
 date: 2017-12-13T22:56:24+05:00
 categories: [haskell, concurrency, parallel]
