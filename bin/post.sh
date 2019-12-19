@@ -15,6 +15,6 @@ PREPARED=$(echo $1 | tr ' ' '_')
 CURRENT_DATE=`date "+%Y-%m-%d"`
 POST_FILE_NAME="${CURRENT_DATE}-${PREPARED}.md"
 
-hugo new post/$POST_FILE_NAME
+hugo new posts/$POST_FILE_NAME
 
-emacs content/post/$POST_FILE_NAME
+emacs content/posts/$POST_FILE_NAME
