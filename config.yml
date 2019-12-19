@@ -91,7 +91,7 @@ params:
     author_title: Yury Antonov
     author_description: machine learning addicted software engineer
     location: Milky Way Galaxy
-    follow: https://github.com/yantonov
+    follow: /
     # Social Links
     social:
       links:
