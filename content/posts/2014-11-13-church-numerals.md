@@ -1,7 +1,7 @@
 ---
 title: "Church numerals"
 date: 2014-11-13T08:17:25+05:00
-categories: [church numerals, lambda calculus, haskell, functional programming, fprog]
+categories: [lambda calculus, haskell, fprog]
 ---
 [Church numerals](http://en.wikipedia.org/wiki/Church_encoding) is a great example of introducing abstraction in terms of composition of functions. This concept demonstrates that "data" (naturals numbers in particular) and operations on data can be defined in the same way - using higher-order functions.
 

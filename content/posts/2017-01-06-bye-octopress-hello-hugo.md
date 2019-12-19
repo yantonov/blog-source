@@ -1,7 +1,7 @@
 ---
 date: 2017-01-06T13:02:38+05:00
 title: "Bye octopress, hello hugo"
-categories: [blog, site generator, static site generator, static]
+categories: [blog, static]
 ---
 This tiny blog has just been migrated from [octropress](http://octopress.org) to [hugo](http://gohugo.io).
 

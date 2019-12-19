@@ -1,7 +1,7 @@
 ---
 title: "Run automation instruments script from the command line"
 date: 2015-01-24T13:38:03+05:00
-categories: [ios, ui, test, automation, functional test]
+categories: [ios, ui, automation]
 ---
 To run ui test from command line you can use instruments app as described [here](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UsingtheAutomationInstrument/UsingtheAutomationInstrument.html).
 

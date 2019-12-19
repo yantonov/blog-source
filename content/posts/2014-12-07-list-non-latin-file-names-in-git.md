@@ -1,7 +1,7 @@
 ---
 title: "List non latin file names in git"
 date: 2014-12-07T23:32:31+05:00
-categories: [git, vcs, dvcs, scm, tip, trick, filename, encoding]
+categories: [git, vcs, scm, tip, trick, filename, encoding]
 ---
 
 Imagine you have commited file which name contain non latin letters.

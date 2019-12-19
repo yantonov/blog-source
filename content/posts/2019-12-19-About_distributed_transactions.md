@@ -1,7 +1,7 @@
 ---
 title: "About distributed transactions"
 date: 2019-12-19T14:52:38+05:00
-categories: [distributed system, scalability]
+categories: [distributed systems, scalability]
 ---
 A couple of articles about distributed transactions and scalability:
 

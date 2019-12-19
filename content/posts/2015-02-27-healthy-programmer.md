@@ -1,7 +1,7 @@
 ---
 title: "Stand up every 20 minutes (mac os)"
 date: 2015-02-27T00:33:33+05:00
-categories: [health, healthy programmer, macos, mac os]
+categories: [health, macos]
 ---
 *Foreword* : Inspired by [excellent post](http://blog.jdevelop.com/software/lifehack/health/standing/linux/2015/02/25/standing-task-20.html)
 
