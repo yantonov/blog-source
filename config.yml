@@ -1,5 +1,5 @@
 baseURL: https://yantonov.com/
-theme: pure
+theme: hugo-theme-pure
 title: (map solve problems)
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
