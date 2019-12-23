@@ -1,7 +1,7 @@
 ---
 title: "Platform specific build event"
 date: 2014-11-03T13:43:28+05:00
-categories: [xamarin, cproj, .net, sln, build, cmd, shell]
+categories: [xamarin, .net]
 ---
 Sometimes you need to build .net solution/project on different platforms (for example while developing [xamarin](http://xamarin.com/ "xamarin") based application). In that case pre/post build events may contain platform specific instructions.
 
