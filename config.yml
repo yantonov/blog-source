@@ -49,11 +49,11 @@ menu:
       url: /categories
       weight: 3
 
-#    - identifier: tags
-#      name: Tags
-#      title: Tags
-#      url: /tags
-#      weight: 4
+    - identifier: tags
+      name: Tags
+      title: Tags
+      url: /tags
+      weight: 4
 
 #    - identifier: about
 #      name: About
