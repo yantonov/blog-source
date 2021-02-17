@@ -13,8 +13,8 @@ In a couple of words:
 
 The only disadvantage is that all dotfiles must be inside one repository.
 It is not scalable approach in that sense that typically configuration files for the different programs are splitted into multiple repositories.
-Using multiple repositories approaches helps to effective share particular configurations.
+Using multiple repositories helps to effective share particular configurations.
 
-That's why using symlinks and some tools like [dot](https://github.com/yantonov/dot) are still the prefered approach for me. 
+That's why using symlinks and maybe some tools that simplifies the symlink creation are still the prefered approach for me. 
 
 Anyway, it is interesting approach and can be useful in some cases.
