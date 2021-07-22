@@ -1,7 +1,7 @@
 ---
 title: "About passing dependencies through deep call stack"
 date: 2020-10-30T19:23:06+05:00
-categories: [development]
+categories: [programming]
 tags: [dependency, context]
 ---
 [Here](https://github.com/dry-python/returns#requirescontext-container) is another approach to pass dependencies through deep call stack.  

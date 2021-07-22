@@ -1,8 +1,8 @@
 ---
 title: "Entity component system"
 date: 2020-10-31T13:09:03+05:00
-categories: [development, architecture]
-tags: [design, composition, enheritance, gamedev]
+categories: [programming]
+tags: [design, composition, enheritance, gamedev, architecture]
 ---
 ```
 Entity–component–system (ECS) is an architectural pattern that is mostly used in game development.

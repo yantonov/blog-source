@@ -1,7 +1,7 @@
 ---
 title: "Send notification to yandex station"
 date: 2020-09-20T19:34:38+05:00
-categories: [development]
+categories: [programming]
 tags: [alice, yandex, station, api, notification]
 ---
 A couple of repositories which helps to send voice message to yandex station.  

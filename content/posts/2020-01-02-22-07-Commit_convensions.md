@@ -1,7 +1,7 @@
 ---
 title: "Commit convensions"
 date: 2020-01-02T22:07:01+05:00
-categories: [development]
+categories: [programming]
 tags: [commit]
 ---
 A couple of links about commit convensions:

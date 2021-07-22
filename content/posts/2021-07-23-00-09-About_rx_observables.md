@@ -2,7 +2,7 @@
 title: "About rx observables"
 date: 2021-07-23T00:09:36+02:00
 categories: [programming]
-tags: [concurrency, observable, rx, ui]
+tags: [concurrency, observable, rx, ui, rust]
 ---
 Information for reflection :)  
 [Here](https://github.com/edgeandnode/eventuals) is a nice Rust library that provides concepts of eventuals (observable snapshot of the most up-to-date value).  

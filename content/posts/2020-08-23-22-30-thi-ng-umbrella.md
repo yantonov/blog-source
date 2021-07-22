@@ -1,7 +1,7 @@
 ---
 title: "Umbrella"
 date: 2020-08-23T22:30:16+05:00
-categories: [development]
+categories: [programming]
 tags: [typescript, fp, library]
 ---
 

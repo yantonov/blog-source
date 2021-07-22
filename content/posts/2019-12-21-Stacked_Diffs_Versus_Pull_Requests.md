@@ -1,7 +1,8 @@
 ---
 title: "Stacked diffs versus pull requests"
 date: 2019-12-21T23:18:26+05:00
-categories: [scm, vcs, development, trunk]
+categories: [programming]
+tags: [scm, vcs, trunk]
 ---
 [Here](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/) is an interesting article 'Stacked Diffs Versus Pull Requests' written by [Jackson Gabbard](https://twitter.com/jgbbrd).
 
