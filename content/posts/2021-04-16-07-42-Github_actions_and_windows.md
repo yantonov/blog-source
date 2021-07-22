@@ -1,8 +1,8 @@
 ---
 title: "Github actions and windows"
 date: 2021-04-16T07:42:29+02:00
-categories: [software]
-tags: [github, ci, windows]
+categories: [ops]
+tags: [github, ci, windows, automation]
 ---
 Be careful while using Github actions for Windows.
 
