@@ -1,8 +1,8 @@
 ---
 title: "How to fix Lenovo X1 Carbon 8th gen sound problem on Windows 10"
 date: 2020-11-14T11:30:58+01:00
-categories: [troubleshooting]
-tags: [drivers, sound, audio, microphone]
+categories: [ops]
+tags: [drivers, sound, audio, microphone, troubleshooting]
 ---
 If you faced with a sound problem (the sound just disappeared), and nothing helps (general troubleshooting, updating drivers, uninstalling audio devices etc, you can try to install Lenovo drivers.
 
