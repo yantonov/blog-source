@@ -1,7 +1,8 @@
 ---
 title: "Conditional get for rss hackers"
 date: 2015-01-25 16:30:47 +0500
-categories: [http, optimization, rfc, rss]
+categories: [specification]
+tags: [http, optimization, rfc, rss]
 ---
 Dont forget about Last-Modified/If-Modified-Since, ETag/If-None-Match headers while retrieving rss feeds. Details can be found in this [article](http://fishbowl.pastiche.org/2002/10/21/http_conditional_get_for_rss_hackers/").
 

@@ -1,7 +1,8 @@
 ---
 date: 2014-10-27T02:36:04+05:00
 title: "Mac os environment variables"
-categories: [mac, environment, shell]
+categories: [ops]
+tags: [mac, environment, shell]
 ---
 Suppose you install some program into your home directory (i had installed [mercurial](http://mercurial.selenic.com/ "mercurial") from source). To use it you have to patch PATH variable.
 

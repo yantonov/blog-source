@@ -1,7 +1,8 @@
 ---
 title: "Webpack has not enough watchers"
 date: 2017-09-13T14:34:45+05:00
-categories: [web, webpack, watch, watchers]
+categories: [programming]
+tags: [web, webpack, watch, watchers]
 ---
 Not enough watchers
 Verify that if you have enough available watchers in your system. If this value is too low, the file watcher in Webpack won’t recognize the changes:

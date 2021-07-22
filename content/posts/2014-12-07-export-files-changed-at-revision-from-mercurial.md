@@ -1,7 +1,8 @@
 ---
 title: "Export files changed at revision from mercurial"
 date: 2014-12-07T22:59:45+05:00
-categories: [mercurial, vcs, scm, export, tip, trick]
+categories: [programming]
+tags: [mercurial, vcs, scm, export, tip, trick]
 ---
 
 Sometimes (more precisely - rarely) you need to export files changed at given revision as directory tree instead of patch file.

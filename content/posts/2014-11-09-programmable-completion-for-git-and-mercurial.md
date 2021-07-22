@@ -1,7 +1,8 @@
 ---
 title: "Programmable completion for git and mercurial"
 date: 2014-11-09T22:52:36+05:00
-categories: [emacs, lisp, git, mercurial]
+categories: [programming]
+tags: [emacs, lisp, git, mercurial]
 ---
 Some time ago i read excellent [post](http://tsdh.wordpress.com/2013/05/31/eshell-completion-for-git-bzr-and-hg/) about emacs library [pcomplete](http://www.emacswiki.org/emacs/ProgrammableCompletion).
 

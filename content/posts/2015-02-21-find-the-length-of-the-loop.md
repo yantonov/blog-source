@@ -1,7 +1,8 @@
 ---
 title: "Find the length of the loop"
 date: 2015-02-21T16:06:23+05:00
-categories: [interview,task,problem,logic,linked list,data structures,fun, haskell]
+categories: [programming]
+tags: [interview,task,problem,logic,linked list,data structures,fun, haskell]
 ---
 *One of the popular interivew tasks...*
 

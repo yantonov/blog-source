@@ -1,7 +1,8 @@
 ---
 title: "PATH variable for gui programs (Mac Os)"
 date: 2014-11-04T19:22:34+05:00
-categories: [mac,shell,environment]
+categories: [ops]
+tags: [mac,shell,environment]
 ---
 **Foreword**:  
 Sometimes you need to edit PATH variable.  

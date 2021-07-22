@@ -1,7 +1,8 @@
 ---
 title: "Delete package from Mac OS"
 date: 2015-10-14T15:46:08+05:00
-categories: [mac, package, automation, shell, script]
+categories: [ops]
+tags: [mac, package, automation, shell, script]
 ---
 Sometimes you may want to delete some package (*.pkg) from your Mac OS installaction. Its assumed, you dont have uninstaller.
 

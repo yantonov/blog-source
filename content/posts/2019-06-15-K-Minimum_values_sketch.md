@@ -1,7 +1,8 @@
 ---
 date: 2019-06-15T14:15:36+05:00
 title: "K-Minimum values sketch"
-categories: [probability, data structures, algorithm]
+categories: [computer science]
+tags: [probability, data structures, algorithm]
 ---
 
 Simple probabilistic data structure used to count distinct values.  

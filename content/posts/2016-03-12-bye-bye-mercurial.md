@@ -1,7 +1,8 @@
 ---
 title: "Bye bye mercurial"
 date: 2016-03-12T19:54:21+05:00
-categories: [mercurial, git, vcs, scm]
+categories: [programming]
+tags: [mercurial, git, vcs, scm]
 ---
 Has just migrated all my mercurial repositories to git. Its a little bit sad, but it will increase uniformity. More over there is [gitlab](https://gitlab.com "gitlab") which provides free private repositories as well as [bitbucket](https://bitbucket.org "bitbucket").
 

@@ -1,7 +1,8 @@
 ---
 title: "Strange shift key behaviour when renaming files in ubuntu"
 date: 2016-05-10T08:45:32+05:00
-categories: [ubuntu, shortcut, keyboard, nautilus]
+categories: [ops]
+tags: [ubuntu, shortcut, keyboard, nautilus]
 ---
 There is a really puzzling behaviour in Nautilus regarding my Shift key. Consider the following scenario:
 1. Choose any file to rename  

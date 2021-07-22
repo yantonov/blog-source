@@ -1,7 +1,8 @@
 ---
 date: 2017-01-05T22:38:37+05:00
 title: Install matplotlib on mac sierra
-categories: [python, matplotlib, mac]
+categories: [ops]
+tags: [python, matplotlib, mac]
 ---
 During matplotlib installation (for python3) some error may occured:  
 'The following required packages can not be built:  

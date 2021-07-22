@@ -1,7 +1,8 @@
 ---
 title: "How to remember ssh keys on mac os"
 date: 2019-12-15T19:04:37+05:00
-categories: [mac, ssh, terminal]
+categories: [ops]
+tags: [mac, ssh, terminal, automation]
 ---
 Got tired to enter ssh passphrases on mac os and want to know how easily force ssh-agent to remember ssh keys?
 

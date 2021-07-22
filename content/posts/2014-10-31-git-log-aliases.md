@@ -1,7 +1,8 @@
 ---
 title: "Git log aliases"
 date: 2014-10-31T00:10:22+05:00
-categories: [git, alias, config, vcs, scm]
+categories: [programming]
+tags: [git, alias, config, vcs, scm]
 ---
 Here are some usefull [git](http://git-scm.com) [aliases](https://git.wiki.kernel.org/index.php/Aliases) which i use on a daily basis:  
 Output samples are generated using clojure [repository](https://github.com/clojure/clojure.git)

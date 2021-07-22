@@ -1,7 +1,8 @@
 ---
 title: "Git rerere"
 date: 2014-11-04T14:26:21+05:00
-categories: [git, vcs, scm, merge]
+categories: [programming]
+tags: [git, vcs, scm, merge]
 ---
 There is some usefull [git](https://git-scm.com) command rerere (reuse recorded resolution). Sometimes especially for long lived branch you need to resolve same conflicts again and again. This command let you save the results of conflict resolution and apply it again when needed.
 

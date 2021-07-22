@@ -1,7 +1,8 @@
 ---
 title: "Ultra leiningen plugin"
 date: 2015-02-03T23:25:06+05:00
-categories: [clojure, repl, plugin, leiningen, ide, workflow]
+categories: [programming]
+tags: [clojure, repl, plugin, leiningen, ide, workflow]
 ---
 There is nice leiningen [plugin](http://blog.venanti.us/ultra/) named "Ultra" which can significantly improve your [clojure](http://clojure.org)'s repl interaction.
 

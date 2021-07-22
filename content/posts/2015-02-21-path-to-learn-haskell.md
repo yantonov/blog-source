@@ -1,7 +1,8 @@
 ---
 title: "Path to learn haskell"
 date: 2015-02-21T17:44:29+05:00
-categories: [haskell, fprog, course]
+categories: [programming]
+tags: [haskell, fprog, course]
 ---
 
 Some haskell resources [recommended](http://bitemyapp.com/posts/2014-12-31-functional-education.html) by @bytemyapp. 
