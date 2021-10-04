@@ -1,7 +1,7 @@
 ---
 title: "Github repositories that help you to prepare for the next interview"
 date: 2021-10-04T12:33:47+02:00
-categories: []
+categories: [programming]
 tags: [interview, algorithm, system design, nalsd]
 ---
 
