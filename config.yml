@@ -8,7 +8,7 @@ paginate: 5
 enableEmoji: true
 googleAnalytics: ""      # UA-XXXXXXXX-X
 permalinks:
-  posts: /:year/:month/:filename/
+  posts: /post/:year-:month-:day-:title/
 
 taxonomies:
     category : categories
