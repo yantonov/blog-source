@@ -12,4 +12,4 @@ if [ -d "${THEME}" ]; then
     exit 1;
 fi
 
-git clone "https://github.com/xiaoheiAh/hugo-theme-pure.git"
+git clone "https://github.com/yantonov/hugo-theme-pure.git"
