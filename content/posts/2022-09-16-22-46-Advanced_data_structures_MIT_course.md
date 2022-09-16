@@ -1,5 +1,5 @@
 ---
-title: "Advanced data structures m i t course"
+title: "Advanced data structures MIT course"
 date: 2022-09-16T22:46:09+02:00
 categories: [computer science]
 tags: [course,data structures]
