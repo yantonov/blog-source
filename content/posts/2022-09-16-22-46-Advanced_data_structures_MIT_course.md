@@ -4,4 +4,4 @@ date: 2022-09-16T22:46:09+02:00
 categories: [computer science]
 tags: [course,data structures]
 ---
-[Course](https://courses.csail.mit.edu/6.851/spring21/)
+MIT [course](https://courses.csail.mit.edu/6.851/spring21/)
