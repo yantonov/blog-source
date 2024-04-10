@@ -6,7 +6,10 @@ tags: []
 ---
 [source](https://joaomagfreitas.link/scripts-should-be-written-using-the-project-main-language/)
 
-Recap: use main language of the project to write scripts.  
+TLDR: use main language of the project to write scripts.  
++1
++2
+:)
 
 Additional couple of remarks:
 1. at some moment you can think about writing tests;
