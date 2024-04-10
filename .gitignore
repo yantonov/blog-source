@@ -2,5 +2,8 @@
 /themes/*
 !/themes/.empty
 
+# hugo implementation details
+/.hugo_build.lock
+
 # generated content
 /public/
