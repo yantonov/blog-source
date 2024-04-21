@@ -87,8 +87,8 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: yantonov
-    author_title: Yury Antonov
+    author: Yury Antonov
+    author_title: software engineer
     author_description: machine learning addicted software engineer
     location: Milky Way Galaxy
     follow: /
