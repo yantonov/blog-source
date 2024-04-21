@@ -1,8 +1,8 @@
 ---
 title: "The scripting language"
 date: 2024-04-10T00:23:49+02:00
-categories: [programming]
-tags: []
+categories: [programming, ops]
+tags: [lang]
 ---
 [source](https://joaomagfreitas.link/scripts-should-be-written-using-the-project-main-language/)
 
