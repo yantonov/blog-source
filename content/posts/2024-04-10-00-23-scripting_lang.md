@@ -17,3 +17,5 @@ Additional couple of remarks:
 3. at some moment you can think about integrating functionality implemented inside the script to the main project (admin endpoint\UI\background job\etc).
 
 That's why it's better to write additional logic not using a script but using the main language from the very beginning.
+
+p.s. scripts are nice only for the interactive context, but as soon as you save it once, you've created significant tech debt
