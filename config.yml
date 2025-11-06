@@ -100,6 +100,7 @@ params:
         twitter: https://twitter.com/yantonov
         # facebook: /
         rss: /index.xml
+        link: https://yantonov.com/homepage
       link_tooltip: false # enable the social link tooltip, options: true, false
   # Site
   site:
