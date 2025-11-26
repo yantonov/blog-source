@@ -101,6 +101,7 @@ params:
         # facebook: /
         rss: /index.xml
         link: https://yantonov.com/homepage
+        linkedin: https://linkedin.com/in/y-antonov
       link_tooltip: false # enable the social link tooltip, options: true, false
   # Site
   site:
