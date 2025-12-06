@@ -1,5 +1,5 @@
 ---
-title: "Things that go wrong with disk i o"
+title: "Things that go wrong with disk IO"
 date: 2025-04-27T08:31:13+02:00
 categories: [programming]
 tags: [hardware, error, io, disk]
