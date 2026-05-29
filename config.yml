@@ -6,9 +6,12 @@ footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
 paginate: 5
 enableEmoji: true
-googleAnalytics: ""      # UA-XXXXXXXX-X
 permalinks:
   posts: /post/:year-:month-:day-:title/
+
+services:
+  googleAnalytics:
+    ID: "" # UA-XXXXXXXX-X
 
 taxonomies:
     category : categories
