@@ -1,7 +1,7 @@
 ---
 title: "Behavior trees"
 date: 2026-05-15T10:41:16+02:00
-categories: [cs]
+categories: [computer-science]
 tags: [state-machine, fsm, finite-state-machine, behaviour-tree]
 ---
 There are two typical ways to handle model state transitions:  
